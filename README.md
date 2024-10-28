@@ -4,7 +4,7 @@ ClickVenture is a web-based travel planning application aimed at simplifying tri
 
 Welcome to ClickVenture! Here's a preview:
 
-[![Watch the trailer](https://img.youtube.com/vi/g0axSReyizs/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/g0axSReyizs))
+[![Watch the trailer](https://img.youtube.com/vi/g0axSReyizs/maxresdefault.jpg)]([https://www.youtube.com/watch?v=g0axSReyizs](https://youtu.be/g0axSReyizs))
 
 ## Features
 
