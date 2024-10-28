@@ -65,21 +65,21 @@ Here’s a glimpse into the various screens and features of ClickVenture:
 <div align="center">
 
 ### Home Screen
-![Home Screen](preview/Home.jpg)
+![Home Screen](Preview/Home.jpg)
 
 ### Sign Up & Login
-![Sign Up](preview/SignUp.png) &nbsp; &nbsp; ![Login](preview/LogIn.png)
+![Sign Up](Preview/SignUp.png) &nbsp; &nbsp; ![Login](Preview/LogIn.png)
 
 ### Trip Planning Screens
-![Pick Trip](preview/PickTrip.png) &nbsp; &nbsp; ![Create Trip](preview/CreateTrip.png) &nbsp; &nbsp; ![Generate Trip](preview/GenerateTrip.png)
+![Pick Trip](Preview/PickTrip.png) &nbsp; &nbsp; ![Create Trip](Preview/CreateTrip.png) &nbsp; &nbsp; ![Generate Trip](Preview/GenerateTrip.png)
 
 ### User Profile & Achievements
-![Profile](preview/Profile.png) &nbsp; &nbsp; ![Achievements](preview/Achievements.png)
+![Profile](Preview/Profile.png) &nbsp; &nbsp; ![Achievements](Preview/Achievements.png)
 
 ### Reviews & Write a Review
-![Reviews](preview/Reviews.png) &nbsp; &nbsp; ![Write Review](preview/WriteReview.png)
+![Reviews](Preview/Reviews.png) &nbsp; &nbsp; ![Write Review](Preview/WriteReview.png)
 
 ### Place Details
-![Place Details](preview/PlaceDetails.png)
+![Place Details](Preview/PlaceDetails.png)
 
 </div>
