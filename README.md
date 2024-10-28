@@ -2,7 +2,7 @@
 
 ClickVenture is a web-based travel planning application aimed at simplifying trip planning in the Kingdom of Bahrain. By utilizing both user-customizable and AI-generated trips, ClickVenture allows users to explore, review, and share experiences while earning rewards through gamification. This application aims to enhance local tourism and create an engaging user community around travel experiences.
 
-                            **Welcome to ClickVenture! Here's a preview:**
+##**Welcome to ClickVenture! Here's a preview:**
 [![Watch the showcase](https://img.youtube.com/vi/g0axSReyizs/hqdefault.jpg)](https://youtu.be/g0axSReyizs)
 
 ## Features
