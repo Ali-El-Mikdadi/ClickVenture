@@ -57,3 +57,29 @@ To set up the project locally:
 - Personalized User Profiles: Offer tailored content based on user history and preferences.
 - Mobile App Development: Expand to a hybrid mobile application.
 - Expanded Regional Support: Broaden the platform to cover GCC countries beyond Bahrain.
+
+## Preview
+
+Here’s a glimpse into the various screens and features of ClickVenture:
+
+<div align="center">
+
+### Home Screen
+![Home Screen](preview/Home.jpg)
+
+### Sign Up & Login
+![Sign Up](preview/SignUp.png) &nbsp; &nbsp; ![Login](preview/LogIn.png)
+
+### Trip Planning Screens
+![Pick Trip](preview/PickTrip.png) &nbsp; &nbsp; ![Create Trip](preview/CreateTrip.png) &nbsp; &nbsp; ![Generate Trip](preview/GenerateTrip.png)
+
+### User Profile & Achievements
+![Profile](preview/Profile.png) &nbsp; &nbsp; ![Achievements](preview/Achievements.png)
+
+### Reviews & Write a Review
+![Reviews](preview/Reviews.png) &nbsp; &nbsp; ![Write Review](preview/WriteReview.png)
+
+### Place Details
+![Place Details](preview/PlaceDetails.png)
+
+</div>
