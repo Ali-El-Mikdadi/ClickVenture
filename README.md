@@ -29,15 +29,16 @@ To set up the project locally:
     ```bash
     npm install
     ```
-4. Set up environment variables (MongoDB URI, OpenAI API Key, etc.) in a .env file:
+4. Set up environment variables (MongoDB URI, OpenAI API Key, etc.) in a `.env` file:
     ```bash
     MONGO_URL=your_mongodb_uri
     OPENAI_API_KEY=your_openai_key
     ```
-5.Start the server:
-  ```bash
+5. Start the server:
+    ```bash
     npm start
-  ```
+    ```
+
 ## Usage:
 - Register or log in to create a user profile.
 - Start a new trip and either use the AI to generate a suggested itinerary or manually select locations.
